@@ -52,6 +52,11 @@ Test subdomains against `example.com` using a wordlist:
 ```bash
 ./fuzzer.sh -u example.com -w wordlist.txt
 ```
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/abd6e552-7483-42df-9e00-58109bc90339)
+
+![image](https://github.com/user-attachments/assets/7f8c15ad-a8ca-403c-b426-66798082f8cd)
 
 #### 2. Filter by HTTP Status Codes
 Only show subdomains that return HTTP status codes `200` or `403`:
